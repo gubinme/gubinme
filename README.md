@@ -1,6 +1,8 @@
 [![Blockbench](https://img.shields.io/badge/Blockbench-0d0d0d?logo=Blockbench)](https://www.blockbench.net/) [![Figma](https://img.shields.io/badge/Figma-0d0d0d?logo=figma)](https://www.figma.com/) [![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d)](https://www.adobe.com/ru/products/photoshop.html)
 <details>
   <summary>Показать на русском</summary>
+  
+  ---
 
   # 👋 Привет!
 
