@@ -1,4 +1,5 @@
 <details>
+  [![Discord](https://img.shields.io/badge/Discord:_@gu.b-0d0d0d?logo=discord)](https://exult.fun/discord)
   <summary>Показать на русском</summary>
 
   # 👋 Привет!
